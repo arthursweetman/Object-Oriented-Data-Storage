@@ -1,0 +1,101 @@
+teamId	universityTeamName	ownerUserId	isActive
+1	National Defence Medical College	286	FALSE
+2	Soochow University	613	FALSE
+3	Rasmussen College, North Dakota Campuses	958	FALSE
+4	Bindura University of Science Education	980	TRUE
+5	Wuhan University of Technology	679	FALSE
+6	Toin University of Yokohama	444	TRUE
+7	Indira Gandhi National Open University	246	FALSE
+8	Universidad Nacional del Sur	192	FALSE
+9	Ghulam Ishaq Khan Institute of Science & Technology	38	TRUE
+10	Ecole Normale Superieure de Lyon	352	FALSE
+11	University of South Alabama	782	FALSE
+12	University of Tuzla	887	FALSE
+13	Adventist University of Africa	143	TRUE
+14	National College of Chiropractic	983	TRUE
+15	Al Rasheed University College	498	TRUE
+16	Technische Universitat Darmstadt	378	FALSE
+17	Technological University (Taunggyi)	360	FALSE
+18	University Institute of Naval Studies	977	TRUE
+19	University of the South	540	FALSE
+20	Capella University	627	TRUE
+21	University of Science and Technology	497	FALSE
+22	Veer Surendra Sai University of Technology	450	TRUE
+23	Utkal University	167	FALSE
+24	Biysk State Padagogical University after V.M. Shukshin 	272	FALSE
+25	Seigakuin University	897	FALSE
+26	International University of Business Agriculture and Technology	480	FALSE
+27	Belhaven College	340	TRUE
+28	Changwon National University	389	FALSE
+29	Columbia Southern University	25	TRUE
+30	Angelo State University	605	TRUE
+31	Universidad Tecnologica de la Mixteca	398	FALSE
+32	Technische Universitat Wien	100	TRUE
+33	Nirma University	688	FALSE
+34	Athenaeum of Ohio	558	TRUE
+35	Sebatian Kolowa University College	98	FALSE
+36	Nishinippon Institute of Technology	670	TRUE
+37	University of Genoa	52	TRUE
+38	National University of Computer & Emerging Sciences	803	FALSE
+39	Hirosaki University	187	TRUE
+40	Universidad de Puerto Rico, Mayaguez	495	FALSE
+41	Konan University	847	TRUE
+42	Martin-Luther Universitat Halle-Wittenberg	996	FALSE
+43	Instituto Superior Novas Profissões - INP	533	FALSE
+44	Universidad Veracruzana	30	FALSE
+45	Fundacion Universitaria San Martín	715	FALSE
+46	Shizuoka Prefectural University	390	FALSE
+47	Nagoya Women's University	178	FALSE
+48	Tokyo University of Pharmacy and Life Science	687	TRUE
+49	Sung Kyun Kwan University	587	TRUE
+50	Nara Sangyo University	994	TRUE
+51	University of Tennessee Space Institute	339	TRUE
+52	University of Aden	763	TRUE
+53	University Transilvany of Brasov	312	TRUE
+54	Tokyo National University of Fine Arts and Music	825	FALSE
+55	Staatliche Hochschule fur Musik	443	FALSE
+56	Dr. Babasaheb Ambedkar Marathwada Universtiy	797	FALSE
+57	Kutztown University of Pennsylvania	162	FALSE
+58	Hallym University	621	TRUE
+59	Georgia School of Professional Psychology	843	TRUE
+60	Tietgen Business College	520	TRUE
+61	Universidade Estadual de Londrina	364	TRUE
+62	Drury College	487	FALSE
+63	Bryant and Stratton College	286	TRUE
+64	Royal Military College of Canada	501	TRUE
+65	Gifu University for Education and Languages	420	FALSE
+66	Lithuania Christian College	432	TRUE
+67	Tokyo Medical College	902	TRUE
+68	Institute of Teachers Education, Tuanku Bainun	756	FALSE
+69	Dokuz Eylul University	932	TRUE
+70	Donetsk National Technical University	994	TRUE
+71	Albertus Magnus College	961	TRUE
+72	Veritas University	981	TRUE
+73	Petroleum University of Technology	706	TRUE
+74	Universidad de Narino	626	FALSE
+75	Masaryk University	691	FALSE
+76	Yildirim Beyazit University	364	FALSE
+77	Universite Hassan II - Mohammadia	986	TRUE
+78	Lander University	85	TRUE
+79	Nisho Gakusha University	104	TRUE
+80	Rocky Mountain College	910	TRUE
+81	Institute of Commonwealth Studies, University of London	321	FALSE
+82	Indiana University-Purdue University at Indianapolis	168	FALSE
+83	KDU College Sdn Bhd	908	FALSE
+84	Universidad de San Miguel	491	FALSE
+85	Kodolanyi Janos University College	657	TRUE
+86	Cambodian Mekong University	552	FALSE
+87	Estonian Academy of Arts	29	TRUE
+88	Suwon Catholic University	355	TRUE
+89	Australian Defence Force Academy	56	TRUE
+90	Tianjin Normal University	987	FALSE
+91	Samara State Academy for Railway Transportation	4	TRUE
+92	Univerzitet u Mostaru Dzemal Bijedic	714	FALSE
+93	University of Catania	804	TRUE
+94	Universidad Nacional de San Luis	714	TRUE
+95	Universidad del Cono Sur de las Americas	113	TRUE
+96	Universidad de Deusto	110	FALSE
+97	The Rockefeller University	926	TRUE
+98	Gokhale Institute of Politics and Economics	989	TRUE
+99	Minamikyushu University	28	TRUE
+100	University of World Economy and Diplomacy	718	FALSE
